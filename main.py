@@ -120,6 +120,3 @@ def main():
     print('The program will close itself in 5 seconds.')
 
     time.sleep(5)
-
-
-main()
